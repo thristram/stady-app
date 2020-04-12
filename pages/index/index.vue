@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: 'Stady'
 			}
 		},
 		onLoad() {
@@ -32,9 +32,9 @@
 	}
 
 	.logo {
-		height: 200rpx;
-		width: 200rpx;
-		margin-top: 200rpx;
+		height: 158rpx;
+		width: 322rpx;
+		margin-top: 170rpx;
 		margin-left: auto;
 		margin-right: auto;
 		margin-bottom: 50rpx;
